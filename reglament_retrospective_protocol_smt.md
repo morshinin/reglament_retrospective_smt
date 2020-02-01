@@ -2,9 +2,13 @@
 
 *Дата создания: 14.01.2020
 Обновлено: 01.02.2020 
-Текущая версия: 0.4.1
+Текущая версия: 0.5.0
 Автор: Mikhail Morshinin (m.morshinin@b2b-center.ru)
 Команда: SMT (Site & mailing team)*
+
+## Шаблон протокола
+
+https://github.com/morshinin/template_retrospective_protocol_smt
 
 ## Формат заголовка
 
